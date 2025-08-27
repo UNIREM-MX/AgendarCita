@@ -3,7 +3,7 @@
 // LÓGICA DEL FRONTEND (VERSIÓN FINAL CON MAPA MEJORADO Y CONFETI)
 // ==========================================================================
 
-const PROXY_WORKER_URL = 'https://unirem-proxy-mk2.oswaldomartinezalvarez.workers.dev/';
+const PROXY_WORKER_URL = 'https://uniremmk3.uniremweb.workers.dev/';
 
 document.addEventListener('DOMContentLoaded', () => {
     // --- ELEMENTOS DEL DOM ---
